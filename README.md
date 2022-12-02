@@ -2,4 +2,4 @@
 
 explorer architecture (draw.io)
 
-![Generation Explorer drawio](https://user-images.githubusercontent.com/93761302/205258375-36862a7e-140f-4d81-a15d-1d7e42644525.png)
+![Generation Explorer drawio](https://user-images.githubusercontent.com/93761302/205258710-6307f163-177a-43a6-aff3-e78cf3c54925.png)
