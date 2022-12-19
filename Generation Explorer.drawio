@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-12-15T06:07:28.659Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="DcrKDoAx04VG6vyp2TdU" version="20.6.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-19T09:28:49.971Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="s7qrbbcneolqI62Q5hDJ" version="20.7.2" type="github">
   <diagram id="jVL8-AkIsO95IIopHAkG" name="페이지-1">
-    <mxGraphModel dx="3267" dy="1200" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
+    <mxGraphModel dx="2143" dy="1172" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -279,8 +279,10 @@
         <mxCell id="VLX_8fWY27auv94ASfoA-146" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="900" y="80" width="170" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="VLX_8fWY27auv94ASfoA-147" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Slack_colored_svg-128.png" parent="VLX_8fWY27auv94ASfoA-146" vertex="1">
-          <mxGeometry x="36.53999999999999" width="90" height="90" as="geometry" />
+        <mxCell id="7qG-Xzx5fhUw0JMqyk-H-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="VLX_8fWY27auv94ASfoA-146" source="VLX_8fWY27auv94ASfoA-148">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="81.5" y="90" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="VLX_8fWY27auv94ASfoA-148" value="&lt;h1 style=&quot;font-size: 24px;&quot;&gt;Slack Alert&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=24;" parent="VLX_8fWY27auv94ASfoA-146" vertex="1">
           <mxGeometry y="100" width="170" height="30" as="geometry" />
