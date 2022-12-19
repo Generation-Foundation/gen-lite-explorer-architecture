@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-12-19T09:28:49.971Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="s7qrbbcneolqI62Q5hDJ" version="20.7.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-19T09:33:26.074Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="SVK52nEC2jVStLjSxB_c" version="20.7.2" type="github">
   <diagram id="jVL8-AkIsO95IIopHAkG" name="페이지-1">
-    <mxGraphModel dx="2143" dy="1172" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
+    <mxGraphModel dx="1286" dy="703" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -276,17 +276,6 @@
         <mxCell id="VLX_8fWY27auv94ASfoA-121" value="&lt;h1 style=&quot;font-size: 24px;&quot;&gt;Slack Alert&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=24;" parent="VLX_8fWY27auv94ASfoA-141" vertex="1">
           <mxGeometry y="100" width="170" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="VLX_8fWY27auv94ASfoA-146" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="900" y="80" width="170" height="130" as="geometry" />
-        </mxCell>
-        <mxCell id="7qG-Xzx5fhUw0JMqyk-H-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="VLX_8fWY27auv94ASfoA-146" source="VLX_8fWY27auv94ASfoA-148">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="81.5" y="90" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="VLX_8fWY27auv94ASfoA-148" value="&lt;h1 style=&quot;font-size: 24px;&quot;&gt;Slack Alert&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=24;" parent="VLX_8fWY27auv94ASfoA-146" vertex="1">
-          <mxGeometry y="100" width="170" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="VLX_8fWY27auv94ASfoA-149" value="check" style="endArrow=classic;html=1;rounded=0;fontSize=24;" parent="1" edge="1">
           <mxGeometry x="0.0347" y="-4" width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1100" y="730" as="sourcePoint" />
@@ -331,6 +320,15 @@
             <mxPoint x="1397.5" y="850" as="sourcePoint" />
             <mxPoint x="1537.5" y="740" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="7Vg-nN1X0ak1KtMVNkaR-1" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="900" y="100" width="170" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="7Vg-nN1X0ak1KtMVNkaR-2" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Slack_colored_svg-128.png" vertex="1" parent="7Vg-nN1X0ak1KtMVNkaR-1">
+          <mxGeometry x="36.53999999999999" width="90" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="7Vg-nN1X0ak1KtMVNkaR-3" value="&lt;h1 style=&quot;font-size: 24px;&quot;&gt;Slack Alert&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=24;" vertex="1" parent="7Vg-nN1X0ak1KtMVNkaR-1">
+          <mxGeometry y="100" width="170" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
