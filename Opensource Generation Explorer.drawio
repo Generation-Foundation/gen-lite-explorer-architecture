@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-12-19T09:39:12.976Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="fywqb4wk-WdZU03O1740" version="20.7.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-19T09:44:02.521Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="OXbHmKJwPRYRUOU_mVoy" version="20.7.4" type="github">
   <diagram id="jVL8-AkIsO95IIopHAkG" name="페이지-1">
-    <mxGraphModel dx="3674" dy="2009" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="650" pageHeight="400" math="0" shadow="0">
+    <mxGraphModel dx="1286" dy="703" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="650" pageHeight="400" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -38,8 +38,8 @@
         <mxCell id="VLX_8fWY27auv94ASfoA-84" value="&lt;h1 style=&quot;font-size: 24px;&quot;&gt;Redux-Toolkit&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=24;" parent="VLX_8fWY27auv94ASfoA-54" vertex="1">
           <mxGeometry x="215" y="180" width="170" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="VLX_8fWY27auv94ASfoA-85" value="&lt;h1 style=&quot;font-size: 24px;&quot;&gt;FrontEnd&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=24;" parent="VLX_8fWY27auv94ASfoA-54" vertex="1">
-          <mxGeometry x="155" y="50" width="105" height="30" as="geometry" />
+        <mxCell id="VLX_8fWY27auv94ASfoA-85" value="&lt;h1 style=&quot;font-size: 24px;&quot;&gt;FrontEnd(port 3000)&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=24;" parent="VLX_8fWY27auv94ASfoA-54" vertex="1">
+          <mxGeometry x="42.5" y="50" width="330" height="30" as="geometry" />
         </mxCell>
         <mxCell id="VLX_8fWY27auv94ASfoA-8" value="" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.directory_server;" parent="VLX_8fWY27auv94ASfoA-54" vertex="1">
           <mxGeometry x="175" y="-50.5" width="65" height="88.5" as="geometry" />
@@ -70,11 +70,11 @@
         <mxCell id="VLX_8fWY27auv94ASfoA-77" value="" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/On_Premises_Data_Gateways.svg;strokeWidth=24;" parent="VLX_8fWY27auv94ASfoA-46" vertex="1">
           <mxGeometry x="312.69999999999993" y="102.98999999999998" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="VLX_8fWY27auv94ASfoA-93" value="&lt;h1 style=&quot;font-size: 24px;&quot;&gt;BackEnd&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=24;" parent="VLX_8fWY27auv94ASfoA-46" vertex="1">
-          <mxGeometry x="166.25" y="40" width="127.5" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="VLX_8fWY27auv94ASfoA-96" value="&lt;h1 style=&quot;font-size: 24px;&quot;&gt;Node Exporter&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=24;" parent="VLX_8fWY27auv94ASfoA-46" vertex="1">
           <mxGeometry x="247.69999999999993" y="165.11" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TXoQdqmXCDYzwkhkeID6-2" value="&lt;h1 style=&quot;font-size: 24px;&quot;&gt;BackEnd(port 3001)&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=24;" vertex="1" parent="VLX_8fWY27auv94ASfoA-46">
+          <mxGeometry x="70" y="50" width="330" height="30" as="geometry" />
         </mxCell>
         <mxCell id="VLX_8fWY27auv94ASfoA-10" value="" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.dns_server;" parent="VLX_8fWY27auv94ASfoA-98" vertex="1">
           <mxGeometry x="191.75" width="76.5" height="92.5" as="geometry" />
@@ -84,8 +84,8 @@
             <mxRectangle x="830" y="520" width="50" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="VLX_8fWY27auv94ASfoA-103" value="&lt;h1 style=&quot;font-size: 24px;&quot;&gt;Crawling Server&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=24;" parent="VLX_8fWY27auv94ASfoA-100" vertex="1">
-          <mxGeometry x="67.1" y="50" width="215.8" height="30" as="geometry" />
+        <mxCell id="VLX_8fWY27auv94ASfoA-103" value="&lt;h1 style=&quot;font-size: 24px;&quot;&gt;Crawling(port 3006)&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=24;" parent="VLX_8fWY27auv94ASfoA-100" vertex="1">
+          <mxGeometry x="53.55" y="50" width="242.9" height="30" as="geometry" />
         </mxCell>
         <mxCell id="VLX_8fWY27auv94ASfoA-11" value="" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.dhcp_server;" parent="VLX_8fWY27auv94ASfoA-100" vertex="1">
           <mxGeometry x="137" y="-50" width="76" height="90" as="geometry" />
